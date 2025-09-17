@@ -1,19 +1,32 @@
 ---
 layout: default
-title: "Curso de Machine Learning"
+title: "ASIX2 - 0374 - Administració de Sistemes Operatius"
 ---
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
+Aquest repositori conté el material de l'assignatura **ASIX2 - 0374 - Administració de Sistemes Operatius**, impartida a l'**Institut de l'Ebre**.
 
-- Índice y enlaces a las unidades del curso.
-- Recursos en formato PDF, vídeos, y Google Colab.
-- Código y ejemplos prácticos.
+- Índex i enllaços a les unitats del curs.  
+- Recursos en format PDF i Markdown.  
+- Scripts i exemples pràctics.  
+- Propostes de projectes per a l’avaluació final.  
 
-## Licencia
+## Llicència
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+El contingut està sota llicència [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
-## Contenido del curso
+## Contingut del curs
 
-### [Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](unidad1/unidad1.md)  
+### [Unitat 1. ](unitat1/unitat1.md)
+
+### [Unitat 2. ](unitat2/unitat2.md)
+
+### [Unitat 3. ](unitat3/unitat3.md)
+
+### [Unitat 4. ](unitat4/unitat4.md)
+
+### [Unitat 5. ](unitat5/unitat5.md)
+
+### [Unitat 6. ](unitat6/unitat6.md)
+
+### [Unitat 7. ](unitat7/unitat7.md)
 
