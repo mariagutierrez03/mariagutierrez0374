@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático"
+title: "Unitat 1. Creació entorn d'arrencada amb systemd Linux"
 ---
 
-## Lección 1. ¿Qué es la IA? De la mente humana a las máquinas inteligentes
+## Part 1
 
-- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/l1.pdf)
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/p27AhdHxi_o)
+
 
